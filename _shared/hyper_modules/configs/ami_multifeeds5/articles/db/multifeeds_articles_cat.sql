@@ -1,0 +1,2 @@
+CREATE TABLE `cms_##modId##_cat` (
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;

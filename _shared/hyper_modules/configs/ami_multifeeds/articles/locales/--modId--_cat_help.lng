@@ -1,0 +1,2 @@
+##--system info: module_owner="##section##" module="##modId##" system="1"--##
+%%include_language "templates/lang/hyper/ami_multifeeds_articles_help.lng"%%

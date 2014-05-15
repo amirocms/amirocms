@@ -1,0 +1,47 @@
+##--system info: module_owner="modules" module="##modId##_import" system="1"--##
+%%include_language "templates/lang/hyper/data_exchange_messages.lng"%%
+
+%%status_import_error%en%%
+Unknown error
+%%status_import_error%ru%%
+Неизвестная ошибка
+
+%%status_imported%en%%
+_num_ file(s) were imported
+%%status_imported%ru%%
+Импортировано файлов: _num_
+
+%%status_not_imported%en%%
+_num_ file(s) were not imported
+%%status_not_imported%ru%%
+_num_ файлов не было импортировано
+
+%%status_deleted%en%%
+_num_ file(s) were deleted
+%%status_deleted%ru%%
+Удалено файлов: _num_
+
+%%status_not_deleted%en%%
+_num_ file(s) were not deleted
+%%status_not_deleted%ru%%
+_num_ файлов не было удалено
+
+%%status_replaced%en%%
+_num_ file(s) were replaced
+%%status_replaced%ru%%
+Заменено файлов: _num_
+
+%%empty_files_list%en%%
+Files not selected
+%%empty_files_list%ru%%
+Файлы не выбраны
+
+%%unknown_action_type%en%%
+Unknown data exchange type
+%%unknown_action_type%ru%%
+Неизвестный тип обмена данными
+
+%%status_import_error%en%%
+Import error
+%%status_import_error%ru%%
+Ошибка импортирования

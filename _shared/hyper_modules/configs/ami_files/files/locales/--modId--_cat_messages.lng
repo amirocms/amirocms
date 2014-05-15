@@ -1,0 +1,2 @@
+##--system info: module_owner="modules" module="##modId##_cat" system="1"--##
+%%include_language "templates/lang/hyper/ami_files_files_cat_messages.lng"%%

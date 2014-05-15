@@ -1,0 +1,42 @@
+##--system info: module_owner="modules" module="##modId##_import" system="1"--##
+%%include_language "templates/lang/hyper/data_exchange_form.lng"%%
+
+%%group_nonchecked_warn%en%%
+Nothing is selected!
+%%group_nonchecked_warn%ru%%
+Ничего не отмечено!
+
+%%form_caption_add%en%%
+Import files
+%%form_caption_add%ru%%
+Импорт файлов
+
+%%form_field_cat_id%en%%
+Destination category
+%%form_field_cat_id%ru%%
+Категория назначения
+
+%%no_categories%en%%
+No categories
+%%no_categories%ru%%
+Категорий нет
+
+%%no_categories_import%en%%
+No categories. Import isn't available.
+%%no_categories_import%ru%%
+Категорий нет. Импорт невозможен.
+
+%%form_field_force_rewrite%en%%
+Rewrite if exists
+%%form_field_force_rewrite%ru%%
+Заменить существующие
+
+%%form_field_public%en%%
+Public
+%%form_field_public%ru%%
+Публиковать
+
+%%form_field_remove%en%%
+Remove files after import
+%%form_field_remove%ru%%
+Удалить файлы после импортирования

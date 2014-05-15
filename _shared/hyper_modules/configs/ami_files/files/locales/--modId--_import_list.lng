@@ -1,0 +1,21 @@
+##--system info: module_owner="modules" module="##modId##_import" system="1"--##
+%%include_language "templates/lang/modules/data_exchange.lng"%%
+%%include_language "templates/lang/hyper/data_exchange_list.lng"%%
+
+%%list_col_id%en%%
+%%list_col_id%ru%%
+
+%%list_col_filename%en%%
+File name
+%%list_col_filename%ru%%
+Имя файла
+
+%%list_col_extension%en%%
+Type
+%%list_col_extension%ru%%
+Тип
+
+%%list_col_filesize%en%%
+Size
+%%list_col_filesize%ru%%
+Размер

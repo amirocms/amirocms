@@ -1,0 +1,42 @@
+##--system info: module_owner="##section##" module="##modId##_data_exchange" system="1"--##
+%%include_language "templates/lang/hyper/ami_data_exchange_photoalbum_data_exchange_messages.lng"%%
+
+%%import_##modId##_cat_success%en%%
+Processed categories: _number_success_ from _number_all_ (added: _num_success_add_, changed: _num_success_apply_, deleted: _num_success_del_, skipped: _num_success_none_)
+%%import_##modId##_cat_success%ru%%
+Обработано категорий: _number_success_ из _number_all_ (добавлено: _num_success_add_, изменено: _num_success_apply_, удалено: _num_success_del_, пропущено: _num_success_none_)
+
+%%import_##modId##_cat_fail%en%%
+Not processed categories: _number_fail_ from _number_all_ (added error: _num_fail_add_, changed error: _num_fail_apply_)
+%%import_##modId##_cat_fail%ru%%
+Не обработано категорий: _number_fail_ из _number_all_ (ошибок добавления: _num_fail_add_, ошибок изменения: _num_fail_apply_)
+
+%%import_##modId##_success%en%%
+Processed photoes: _number_success_ from _number_all_ (added: _num_success_add_, changed: _num_success_apply_, deleted: _num_success_del_, skipped: _num_success_none_)
+%%import_##modId##_success%ru%%
+Обработано картинок: _number_success_ из _number_all_ (добавлено: _num_success_add_, изменено: _num_success_apply_, удалено: _num_success_del_, пропущено: _num_success_none_)
+
+%%import_##modId##_fail%en%%
+Not processed photoes: _number_fail_ from _number_all_ (added error: _num_fail_add_, changed error: _num_fail_apply_)
+%%import_##modId##_fail%ru%%
+Не обработано картинок: _number_fail_ из _number_all_ (ошибок добавления: _num_fail_add_, ошибок изменения: _num_fail_apply_)
+
+%%import_images_success%en%%
+Processed images: _number_success_ from _number_all_
+%%import_images_success%ru%%
+Обработано изображений: _number_success_ из _number_all_
+
+%%import_images_fail%en%%
+Not processed images: _number_fail_ from _number_all_
+%%import_images_fail%ru%%
+Не обработано изображений: _number_fail_ из _number_all_
+
+%%import_##modId##_cat_init_fail%en%%
+Error of initialization of import of categories.
+%%import_##modId##_cat_init_fail%ru%%
+Ошибка инициализации при импорте категорий.
+
+%%import_##modId##_init_fail%en%%
+Error of initialization of import of photoes.
+%%import_##modId##_init_fail%ru%%
+Ошибка инициализации при импорте картинок.

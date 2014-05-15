@@ -1,0 +1,2 @@
+##--system info: module_owner="##section##" module="##modId##_data_exchange" system="1"--##
+%%include_language "templates/lang/hyper/ami_data_exchange_photoalbum_data_exchange_client.lng"%%
